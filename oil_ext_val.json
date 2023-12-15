@@ -1,0 +1,10 @@
+{
+  "Oil_extractor": 1,
+  "impure": 60,
+  "normal": 120,
+  "pure": 240,
+
+  "Motor": 15,
+  "Encased": 20,
+  "Cable": 60
+}
